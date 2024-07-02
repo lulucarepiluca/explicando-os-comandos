@@ -2,9 +2,9 @@
 
 /* Espaço para criar variáveis */
 :root {
-    --cor-titulo: black;
-    --cor-degrade-1: rgb(133, 199, 133);
-    --cor-degrade-2: rgb(219, 255, 222);
+    --cor-titulo: #06174b;
+    --cor-degrade-2: #b5d7ff;
+    --cor-degrade-1: rgb(148, 198, 255);
 
     --largura-maxima: 1080px;
 }
@@ -95,7 +95,7 @@ body {
 .rodape-paragrafo a {
     text-decoration: none;
     font-weight: bold;
-    color: black;
+    color: rgb(7, 11, 95);
 }
 
 @media (max-width: 600px) {
